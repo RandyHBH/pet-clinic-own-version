@@ -2,6 +2,7 @@
 My own version of the Spring Pet Clinic project
 
 What is used in this project
+- Multi-Module 
 - Java 8
 - Spring Boot 2.0.6
 - Spring DevTools
