@@ -1,0 +1,5 @@
+com\springframework\petclinicownversion\model\Pet.class
+com\springframework\petclinicownversion\model\PetType.class
+com\springframework\petclinicownversion\model\Person.class
+com\springframework\petclinicownversion\model\Vet.class
+com\springframework\petclinicownversion\model\Owner.class
