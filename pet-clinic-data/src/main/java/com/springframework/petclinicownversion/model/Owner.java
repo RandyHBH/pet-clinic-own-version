@@ -1,4 +1,5 @@
 package com.springframework.petclinicownversion.model;
 
-public class Owner extends Person {
+public class Owner extends Person
+{
 }
